@@ -1,6 +1,6 @@
 # n-gram-lang-models
 
-This project builds an n-gram language model (with variations). 
+This project ngram.py builds an n-gram language model (with variations). 
 
 The user can select model type to be unigram or bigram, select whether to preprocess corpus, and select smoothing type to be none, Laplace smoothing, or add-k smoothing (can select value of k for this option). 
 
